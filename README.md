@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshushekhar55&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshushekhar55" /> </p>
 
-- 🌱 I’m currently learning **Rust, Golang, somewhat ML**
+- 🌱 I’m currently learning **Golang, Kotlin, somewhat ML**
 
-- 🖥️ I mainly work with **React, React Native, Rust, C++,  JS,  Tauri, Python**
+- 🖥️ I mainly work with **React, React Native, C++,  JS,  Tauri, Python**
 
 - 💬 Ask me about **Web-Dev, Backend Architectures, Frontend stuff, App Dev and any techy-thing in general**
 
