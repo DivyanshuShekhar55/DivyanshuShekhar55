@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web-Dev, Backend Architectures, Frontend stuff, App Dev and any techy-thing in general**
 
-- 📫 How to reach me **divyanshushekhar987@gmail.com**
+- 📫 How to reach me <a href="https://portfolio-mu-livid-67.vercel.app/">**Portfolio**</a>
 
 - ⚡ Fun fact **I love literature, philosophy, anime**
 
